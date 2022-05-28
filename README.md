@@ -5,13 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mman9our&label=Profile%20views&color=0e75b6&style=flat" alt="mman9our" /> </p>
 
 - 🌍 I'm based in **PS , Qalqilya**
-
 - 🧠 I’m currently learning **artificial intelligence, mathematics, And Mobile development.**
-
 - ✉️ You can contact me at [mmanour915@gmail.com](mmanour915@gmail.com)
-
 - 🤝 I'm open to collaborating **on useful open-source projects that matches my tech stack.**
-
 - 📝 I regularly write articles on [https://t.me/telluaa](https://t.me/telluaa)
 
 <h3 align="left">Skills</h3>
