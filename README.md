@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋, I'm Mohammed Mansour</h2>
 
 <h3 align="left">Web & Mobile JavaScript Developer</h3>
-----
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mman9our&label=Profile%20views&color=0e75b6&style=flat" alt="mman9our" /> </p>
 
 - 🌍 I'm based in **PS , Qalqilya**
@@ -16,12 +17,12 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://dev.to/mman9our" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mman9our" height="30" width="40" /></a>
+<a href="https://dev.to/mman9our" target="blank"><img align="center" src="file:///C:/Users/FUJITSU/Desktop/84_Dev-512.webp" alt="mman9our" height="30" width="40" /></a>
 <a href="https://twitter.com/mman9oure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mman9oure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mman9our" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mman9our" height="30" width="40" /></a>
 <a href="https://instagram.com/mman9our" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mman9our" height="30" width="40" /></a>
 <a href="https://discord.gg/#7148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7148" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/mman9our"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mman9our" /></a></p><br><br>
