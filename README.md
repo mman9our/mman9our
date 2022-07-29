@@ -8,9 +8,9 @@
 - 🌍 I'm based in PS, Qalqilya.
 - 🧠 I’m currently learning machine learning.
 - 🤝 I'm open to collaborating on useful open-source projects that matches my tech stack.
-- 🚀 I'm currently working on teaching Web development
-- ✉️ You can contact me at [mmanour915@gmail.com](mailto:mmanour915@gmail.com)
-- 📝 I regularly write articles on [https://t.me/telluaa](https://t.me/telluaa)
+- 🚀 I'm currently working on teaching Web development.
+- ✉️ You can contact me at [mmanour915@gmail.com](mailto:mmanour915@gmail.com).
+- 📝 I regularly write articles on [https://t.me/telluaa](https://t.me/telluaa).
 
 
 <h3 align="left">Skills</h3>
