@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Mohammed Mansour</h2>
+<h1 align="left">Hi 👋, I'm Mohammed Mansour</h1>
 
 <h3 align="left">Web & Mobile JavaScript Developer</h3>
 
