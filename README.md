@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mohamed Mansour</h1>
 
-<h2 align="left">A Software Engineer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above header and I will be adding whatever I learn in the future into the stack 😄.</h2>
+<h3 align="left">A Software Engineer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the bottm footer and I will be adding whatever I learn in the future into the stack 😄.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mman9our&label=Profile%20views&color=0e75b6&style=flat" alt="mman9our" /> </p>
