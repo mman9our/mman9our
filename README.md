@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mman9our&label=Profile%20views&color=0e75b6&style=flat" alt="mman9our" /> </p>
 
 - 🌍 I'm based in PS, Qalqilya.
-🖥️ See my portfolio at [mohmansour.info](https://mohmansour.info/)
+- 🖥️ See my portfolio at [mohmansour.info](https://mohmansour.info/)
 - 🧠 I’m currently learning machine learning.
 - 🤝 I'm open to collaborating on useful open-source projects that matches my tech stack.
 - 🚀 I'm currently working on teaching Web development.
