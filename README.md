@@ -14,14 +14,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ✉️ You can contact me at [mmanour915@gmail.com](mailto:mmanour915@gmail.com)
 - 📝 I also write some articles on [https://t.me/telluaa](https://t.me/telluaa)
 
-
-
-* 🌍  I'm based in PS, Qalqilya.
-* 🖥️  See my portfolio at [mohmansour.info](http://mohmansour.info/)
-* ✉️  You can contact me at [mmanour915@gmail.com](mailto:mmanour915@gmail.com)
-* 🧠  I'm learning Machine Learning and Deep Learning
-* 🤝  I'm open to collaborating on useful open-source projects that matches my tech stack.
-
 ### Skills
 
 
