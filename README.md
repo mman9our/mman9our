@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Mansour
+Hi👋 My name is Mohamed Mansour
 =======================================================================================================================================
 
 <h4 align="left">A Software Engineer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the bottm footer and I will be adding whatever I learn in the future into the stack 😄.</h4>
