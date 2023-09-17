@@ -8,7 +8,6 @@ Hi👋 My name is Mohamed Mansour
 
 - 🌍  I'm based in PS, Qalqilya.
 - 🖥️ See my portfolio at [https://bento.me/mman9our](https://bento.me/mman9our)
-- 🧠 I'm learning Machine Learning and Deep Learning
 - 🤝 I'm open to collaborating on useful open-source projects that matches my tech stack.
 - 🚀 I'm currently working on WaFer App.
 - ✉️ You can contact me at [mohamed.mansour2622@gmail.com](mailto:mohamed.mansour2622@gmail.com)
