@@ -9,7 +9,7 @@ Hi👋 My name is Mohamed Mansour
 - 🌍  I'm based in PS, Qalqilya.
 - 🖥️ See my portfolio at [https://bento.me/mman9our](https://bento.me/mman9our)
 - 🤝 I'm open to collaborating on useful open-source projects that matches my tech stack.
-- 🚀 I'm currently working on WaFer App.
+- 🚀 I'm currently working on Wafer App.
 - ✉️ You can contact me at [mohamed.mansour2622@gmail.com](mailto:mohamed.mansour2622@gmail.com)
 - 📝 I also write some articles on [https://t.me/telluaa](https://t.me/telluaa)
 
