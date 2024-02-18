@@ -7,7 +7,7 @@ Hi👋 My name is Mohamed Mansour
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mman9our&label=Profile%20views&color=0e75b6&style=flat" alt="mman9our" /> </p>
 
 - 🌍  I'm based in PS, Qalqilya.
-- 🖥️ See my portfolio at [https://bento.me/mman9our](https://bento.me/mman9our)
+- 🖥️ See my portfolio at [mohamedmansour.info](https://www.mohamedmansour.info)
 - 🤝 I'm open to collaborating on useful open-source projects that matches my tech stack.
 - 🚀 I'm currently working on Wafer App.
 - ✉️ You can contact me at [mohamed.mansour2622@gmail.com](mailto:mohamed.mansour2622@gmail.com)
